@@ -1,5 +1,5 @@
 import streamlit as st
-import spacy
+
 import spacy_streamlit
 
 # Load spaCy model
